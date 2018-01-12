@@ -21,8 +21,8 @@ namespace Ctrl
         //核心数值
         public float playerCurrentHP;
         public float playerCurrentHPP;
-        public float playerCurrentHPP;
-        public float playerCurrentHP;
+        public float playerCurrentMP;
+        public float playerCurrentMPP;
         public float _propattackPower;
         public float _defencePower;
         public float _propdefencePower;
