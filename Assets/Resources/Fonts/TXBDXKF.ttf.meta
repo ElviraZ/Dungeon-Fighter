@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3a48b3c2523e74c4899ab9adc6f97f4a
+timeCreated: 1492605403
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tensentype XingKaiF
+  fontNames:
+  - Tensentype XingKaiF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
